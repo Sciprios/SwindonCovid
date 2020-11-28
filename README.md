@@ -1,10 +1,11 @@
-# Swindon COVID-19 Data
+# Swindon Data Project
 
-This project was setup for personal interest in local COVID-19 data.
+This repository contains scripts and notebooks used for the analysis of Swindon data. 
 
 I make no guarantees that the code is efficient or perfect but hopefully it will evolve!
 
-## Contents
+## Swindon COVID-19 Data
+### Contents
 
 Currently there are two Jupyter Notebooks which are viewable from the Github interface:
 
